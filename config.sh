@@ -1,0 +1,5 @@
+export DB_PASSWORD=''
+export DB_USER='school'
+export SERVER='127.0.0.1'
+export BOT_NAME='school_bot'
+export BOT_PASSWORD=''
